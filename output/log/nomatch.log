@@ -125,25 +125,97 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 河南卫视 (2160p),http://118.81.195.79:9003/hls/30/index.m3u8
 浙江少儿 (1080p),https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 海南卫视 (576p),http://118.81.195.79:9003/hls/28/index.m3u8
+Animation Show Channel,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8
 湖北卫视 (1080p),http://118.81.195.79:9003/hls/32/index.m3u8
+Beijing Traffic Radio TV [Geo-blocked],http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
 湖南都市 (576p),http://hnsd.chinashadt.com:2036/live/stream:hunandushi.stream/playlist.m3u8
+Beijing Youth Radio [Geo-blocked],http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
 滁州市广播电视台 公共频道 (400p),http://live.cztv.cc:85/live/ggpd.m3u8
+Bingtuan Satellite TV,http://49.113.179.174:4022/udp/238.125.4.13:5140
 滁州市广播电视台 新闻综合频道 (1080p),http://live.cztv.cc:85/live/xwpd.m3u8
+Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 滁州市广播电视台 科教频道 (400p),http://live.cztv.cc:85/live/sjpd.m3u8
+BRTV Kaku Childrens Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
+CCTV央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
 甘肃卫视 (576p),http://118.81.195.79:9003/hls/25/index.m3u8
+BRTV Kaku Childrens Channel,http://223.72.123.28:85/tsfile/live/1026_1.m3u8
+CCTV第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 白城新闻综合 [Geo-blocked],https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+BRTV Kaku Childrens Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
+CCTV-兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
+CGTN,https://0472.org/hls/cgtn.m3u8
 萍鄉新聞綜合 (576p) [Not 24/7],http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
+BRTV Science & Education Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
+CCTV-世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
+CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 西安丝路 (404p) [Not 24/7],http://stream2.xiancity.cn/xatv5/playlist.m3u8
+2025-03-06 16:04:54,http://45.145.229.71:8866/TVOD/6000000001000029752/wasusyt/index.m3u8
+BRTV 北京卫视 [Not 24/7],http://ivi.bupt.edu.cn/hls/btv1.m3u8
+CCTV-风云剧场,http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
 西安商务资讯 (180p) [Not 24/7],http://stream2.xiancity.cn/xatv3/playlist.m3u8
+央视台球,rtsp://115.153.245.70/PLTV/88888888/224/3221226955/86106661.smil
+BRTV 北京卫视,http://118.81.195.79:9003/hls/20/index.m3u8
+CCTV-第一剧场,http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
+CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
 贵州卫视 (576p),http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU
+央视台球,rtsp://115.153.247.80/PLTV/88888888/224/3221226955/86106661.smil
+CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+CCTV-怀旧剧场,http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
 辽宁卫视 (1080p),http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8
+央视台球,rtsp://115.153.230.145/PLTV/88888888/224/3221226955/86106661.smil
+CGTN Documentary (1080p),https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+CCTV-文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
+CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 酒泉新闻综合 (576p),http://117.156.28.119/270000001111/1110000001/index.m3u8
+央视台球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226955/86106661.smil
+Channel Law,http://49.113.179.174:4022/udp/238.125.2.201:5140
+CCTV-女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
+CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 重庆卫视 (1080p),http://118.81.195.79:9003/hls/22/index.m3u8
+第一剧场,http://58.221.214.82:9901/tsfile/live/0015_2.m3u8?key=txiptv
+Channel Max,http://180.213.174.225:9901/tsfile/live/1037_1.m3u8
+CCTV-卫生健康,http://nas.hssvm.com:8888/udp/225.1.1.210:5002
+CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 长沙女性 [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
+第一剧场,http://jf.jxx2023.work:40446/tsfile/live/1049_1.m3u8?key=txiptv
+Channel Tea,http://180.213.174.225:9901/tsfile/live/1041_1.m3u8
+CCTV-央视台球,http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
 长沙政法 [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
+第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
+CHC Action,http://180.213.174.225:9901/tsfile/live/1027_1.m3u8
+CCTV-央视高网,http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
 长沙新闻 [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
+第一剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226961/86128891.smil
+CHC Home Theater,http://180.213.174.225:9901/tsfile/live/1030_1.m3u8
+CCTV-电视指南,http://www.lizhinas.top:1009/rtp/239.252.219.97:5140
+中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 青海卫视 (1080p),http://live.geermurmt.com/qhws/sd/live.m3u8
+第一剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226961/86128891.smil
+City Theater Channel,http://49.113.179.174:4022/udp/238.125.1.60:5140
+中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 风尚购物 (1080p),http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
+第一剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226961/86128891.smil
+Documentary Humanities Channel,http://49.113.179.174:4022/udp/238.125.3.135:5140
+中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
+直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 高台电视台 (1080p),http://117.156.28.119/270000001111/1110000146/index.m3u8
+第一剧场,http://189.1.219.223:35455/rptv/G_DIYIJC-CQ.m3u8?license=gitv
+DOX Surround,http://180.213.174.225:9901/tsfile/live/1032_1.m3u8
+直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+支持作者,https://vd3.bdstatic.com/mda-rja3mfxaxgr3uugw/1080p/cae_h264/1760187146239916730/mda-rja3mfxaxgr3uugw.mp4
 鹤壁新闻综合 (480p) [Not 24/7],http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
+第一剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000410?AuthInfo=xxx&userid=gf001&userid=gf001
+DOX Yaqu,http://180.213.174.225:9901/tsfile/live/1033_1.m3u8
+熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+兵团卫视,http://183.11.239.36:808/hls/7/index.m3u8
 黑龙江 (1080p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
+风云剧场,http://huangtong-com.cn:9902/tsfile/live/1024_1.m3u8
+DOX Yijia,http://180.213.174.225:9901/tsfile/live/1031_1.m3u8
+CETV-1 综合教育,http://www.lizhinas.top:1009/rtp/239.252.220.198:5140
+兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
