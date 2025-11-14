@@ -1,9 +1,18 @@
 🕘️更新时间,#genre#
-2025-11-14 06:18:03,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+2025-11-14 18:23:44,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
 
 📺央视频道,#genre#
+CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq
+CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=lg
+CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=gq
+CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq
+CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=gq
+CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=gq
+CCTV-13,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv13&q=gq
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
+CCTV-17,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv17&q=gq
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
@@ -11,6 +20,7 @@ CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://106.53.99.30/tv/bj.php?id=bjws4k
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 
 ☘️江苏频道,#genre#
@@ -20,8 +30,8 @@ CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 宜兴紫砂,rtmp://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs
 常熟民生,rtmp://cstvplay.21cs.cn/cstv2/cstv2
-武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进新闻,http://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 泗阳综合,http://3739115337.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=nwEAAKHdjSKP_58X&secondToken=secondToken%3A5FUijZmDyNMxtCDdne0YzSAwjuw&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzh&v3=1
@@ -64,15 +74,6 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 
 🪁动画频道,#genre#
 少儿动画,http://114.252.126.226:8899/hls/32/index.m3u8
-少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
-少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
-少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
-少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
-少儿动画,rtsp://115.153.240.228:554/PLTV/88888888/224/3221227006/86440922.smil
-少儿动画,rtsp://115.153.212.72/PLTV/88888888/224/3221227006/86440922.smil
-少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
-少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
-少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
