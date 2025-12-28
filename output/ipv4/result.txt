@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-28 18:17:43,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+2025-12-29 06:17:18,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 
 📺央视频道,#genre#
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
@@ -25,21 +25,22 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 西藏卫视,http://yp.qqqtv.top/1/api.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&auth=666858
 
 ☘️江苏频道,#genre#
-句容党建,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 句容党建,http://yp.qqqtv.top/1/api.php?id=%E5%8F%A5%E5%AE%B9%E5%85%9A%E5%BB%BA%E9%A2%91%E9%81%93&auth=666858
+句容党建,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
 句容生活,http://yp.qqqtv.top/1/api.php?id=%E5%8F%A5%E5%AE%B9%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93&auth=666858
 句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 宜兴紫砂,rtmp://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs
 常熟民生,rtmp://cstvplay.21cs.cn/cstv2/cstv2
-武进新闻,http://yp.qqqtv.top/1/api.php?id=%E6%AD%A6%E8%BF%9B%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 武进新闻,http://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-武进生活,http://yp.qqqtv.top/1/api.php?id=%E6%AD%A6%E8%BF%9B%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93&auth=666858
+武进新闻,http://yp.qqqtv.top/1/api.php?id=%E6%AD%A6%E8%BF%9B%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&auth=666858
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+武进生活,http://yp.qqqtv.top/1/api.php?id=%E6%AD%A6%E8%BF%9B%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93&auth=666858
 泗阳综合,http://3739115337.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=nwEAAKHdjSKP_58X&secondToken=secondToken%3A5FUijZmDyNMxtCDdne0YzSAwjuw&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzh&v3=1
 涟水综合,rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw
+滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 睢宁综合,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 贾汪旅游,http://yp.qqqtv.top/1/api.php?id=%E8%B4%BE%E6%B1%AA%E6%97%85%E6%B8%B8%E9%A2%91%E9%81%93&auth=666858
@@ -67,7 +68,6 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
-Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 Now华剧,http://rihou.cc:555/tv/[Hk]Now华剧
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
