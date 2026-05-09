@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2026-05-09 18:56:33,http://198.204.228.26/live/cctv1hd.m3u8
+2026-05-10 06:40:43,http://198.204.228.26/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
 CCTV-4,http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-8,https://iptv.catvod.com/catvod?id=CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85&line=1
 CCTV-8,http://198.204.240.250:82/live/cctv8k.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,http://101.66.198.87:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -16,9 +15,7 @@ CCTV-14,http://101.66.195.162:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-吉林卫视,http://101.66.198.136:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
-山东卫视,http://101.66.198.11:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 
 ☘️江苏频道,#genre#
 句容党建,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
